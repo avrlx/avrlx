@@ -58,20 +58,11 @@
 
 <!-- All shields clustered to reduce space -->
 <a href="mailto:avrlx678@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/avrlx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aviral-singh-196627366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AviralS82974565"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://dev.to/ind_aviral"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://leetcode.com/avrlx"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://codeforces.com/profile/aviralsingh524715"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/aviralsingh52471"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.instagram.com/ind_aviral"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/avrlx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://avrlx.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://gssoc.girlscript.org/profile/4f6253c4-d15f-45d3-9c3d-eeb4c7205eae"><img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/32825030/avrlx"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/clean_bell_46"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-
 </div>
 
 ---
@@ -140,7 +131,7 @@ MAX30102 sensor · Live WebSocket updates · Web dashboard
 ---
 ## GitHub Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avrlx&show_icons=true&theme=tokyonight&hide_border=true" alt="avrlx's GitHub stats" height="180px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=avrlx&show_icons=true&theme=tokyonight&hide_border=true" alt="avrlx's GitHub stats" height="180px"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avrlx&theme=tokyonight&hide_border=true" alt="avrlx's Streak" height="180px"/>
 </div>
 
