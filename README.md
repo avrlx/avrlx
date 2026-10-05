@@ -133,6 +133,10 @@ Add technology badges here.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avrlx&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="80%"/>
 </div>
 
+## LeetCode Stats
+<div aling = " center">
+<p align="center"> <img height="400em" src="https://leetcard.jacoblin.cool/avrlx?ext=activity&font=Dancing_Script" />
+</div>
 
 ## GitHub Stats 
 <div align="center">
