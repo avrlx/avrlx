@@ -53,17 +53,13 @@
 
 
 ## 🌐 Let's Connect 
-
-
-
 <!-- Professional contact links -->
-<a href="mailto:avrlx678@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/AviralS82974565"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://leetcode.com/avrlx"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://t.me/avrlx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/aviral-singh-196627366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://aviral-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
+[![Leetcode](svg/portfolio.svg)](https://aviral-portfolio-nine.vercel.app)
+[![LinkedIn](svg/icons8-linkedin.svg)](https://www.linkedin.com/in/aviral-singh-196627366)
+[![TwitterX](svg/icons8-twitterx.svg)](https://x.com/AviralS82974565)
+[![Email](svg/email.svg)](mailto:avrlx678@gmail.com)
+[![Leetcode](svg/leetcode.svg)](https://leetcode.com/avrlx)
 
 
 
