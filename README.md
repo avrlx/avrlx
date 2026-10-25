@@ -121,11 +121,11 @@ Add technology badges here.
 | **Web & Frameworks** | <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
 
 
-
+<!--
 ##  Contribution
 
 <div align="center">
-<!-- Fixed Activity Graph Data Source from avrlx-->
+<!-- Fixed Activity Graph Data Source from avrlx
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avrlx&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="80%"/>
 </div>
 
@@ -133,7 +133,7 @@ Add technology badges here.
 <div aling = " center">
 <p align="center"> <img height="400em" src="https://leetcard.jacoblin.cool/avrlx?ext=activity&font=Dancing_Script" />
 </div>
-
+-->
 ## GitHub Stats 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=avrlx&theme=tokyonight&hide_border=true" alt="Aviral's GitHub streak" height="180px"/>
